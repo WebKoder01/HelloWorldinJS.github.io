@@ -13,8 +13,8 @@ btn.addEventListener('click', function() {
     // maincontainer2.style.transition = 'all 4s'
     maincontainer2.style.background = '#A31BFF'
     maincontainer2.style.transition = 'all 4s'
-    container.style.transform = 'translateY(-100vh)';
-    container.style.transition = 'all 2s ease-in';
+    //container.style.transform = 'translateY(-100vh)';
+    //container.style.transition = 'all 2s ease-in';
     maincontainer2.style.transform = 'translateY(-100vh)';
     maincontainer2.style.transition = 'all 2.2s ease-in';
 })
